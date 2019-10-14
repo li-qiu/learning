@@ -1,2 +1,2 @@
 # learning
-Code testing and learning
+Code testing and learning.
